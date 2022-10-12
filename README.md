@@ -6,6 +6,7 @@
 - 📫 How to reach me yossef.her25@gmail.com
 
 Languages and Tools:
+![CSS](https://www.w3schools.com/css/)
 CSS Express Git HTML Javascript Postgres Nodejs React Python
 
  
